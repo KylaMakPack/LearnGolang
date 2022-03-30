@@ -14,3 +14,4 @@ To Do:
 8. Loop through user first names of who has booked tickets.
 9. When all tickets sold end application and tickets sold out.
 10. Handle invalid input, check if they buy more than the remaining tickets.
+11. Learn concurrency and wait groups.
